@@ -6,6 +6,7 @@ public class Asignar {
     private String fecha_Hora_Registro;
 
     //Constructor sin Parametros
+    //comentario ejemplo Git
     public Asignar() {
     }
     
